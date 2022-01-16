@@ -1,0 +1,49 @@
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.dataContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.header {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.bio {
+  text-align: center;
+}
+
+.waveButton {
+}
+.hi-image {
+  max-width: 320px;
+}
+
+.app-ui {
+}
+.wave-box {
+}
+.wave-box__input {
+  flex: 1;
+}
+
+.spinner {
+  max-width: 50px;
+  margin: 0 auto;
+}
+
+.disconnectButton {
+  margin-top: 50px;
+}
+
+code {
+  white-space: pre-wrap;
+  word-break: break-word;
+}
